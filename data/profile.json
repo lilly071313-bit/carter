@@ -1,1 +1,20 @@
-[]
+[
+ {
+  "id": "411962f4ee5a80b0bc6ac0b043305094",
+  "title": "Ghost",
+  "body": "",
+  "image": null,
+  "category": "",
+  "created_at": "2026-11-07T06:47:00.000Z",
+  "edited": "2026-11-07T06:48:00.000Z"
+ },
+ {
+  "id": "411962f4ee5a80a78bacfc11348ffb3a",
+  "title": "Smog",
+  "body": "",
+  "image": null,
+  "category": "",
+  "created_at": "2026-11-07T06:47:00.000Z",
+  "edited": "2026-11-07T06:48:00.000Z"
+ }
+]
